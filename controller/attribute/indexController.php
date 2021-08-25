@@ -9,4 +9,9 @@ class AttributeController
 
         return 'Index Attribute';
     }
+    public function attribute()
+    {
+
+        return 'attribute';
+    }
 }
