@@ -4,9 +4,9 @@ class AttributeController
 {
 
 
-    public function index()
+    public function User()
     {
 
-        return 'Index Attribute';
+        return 'Fix Bug User';
     }
 }
