@@ -9,4 +9,9 @@ class AttributeController
 
         return 'Fix Bug User';
     }
+    public function attribute()
+    {
+
+        return 'attribute';
+    }
 }
