@@ -14,4 +14,9 @@ class AttributeController
 
         return 'attribute';
     }
+    public function role2()
+    {
+
+        return 'role2';
+    }
 }
