@@ -19,4 +19,9 @@ class AttributeController
 
         return 'role2';
     }
+    public function Role()
+    {
+
+        return 'Index Role';
+    }
 }
